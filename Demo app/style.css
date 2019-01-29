@@ -52,7 +52,7 @@ p {
 
 .card:hover {
   box-shadow: 2px 8px 45px rgba(0, 0, 0, .15);
-  transform: translate3D(0, -2px, 0);
+  transform: translate3D(0, -12px, 0);
 }
 
 @media screen and (min-width: 600px) {
@@ -76,5 +76,5 @@ p {
 }
 
 .card:nth-child(5n) h1 {
-  background-image: linear-gradient(120deg, #ffc3a0 0%, #ffafbd 100%);
+  background-image: linear-gradient(120deg, #fff400 0%, #ff0000 100%);
 }
